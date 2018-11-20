@@ -23,6 +23,7 @@
 #include<algorithm>
 #include<fstream>
 #include<iomanip>
+#include <unistd.h>
 #include<chrono>
 
 #include<opencv2/core/core.hpp>
